@@ -30,9 +30,9 @@ def test_product_creation(app):
         db.session.add(category)
         db.session.commit()
 
-        product = Product(name="Laptop")
+        product = Product(name="Laptop", price=1000.0, category_id=category.id)
         db.session.add(product)
         db.session.commit()
 
-        assert db.engine.table_names() == ['categories', 'products']
-        assert Product.query.filter_by(name="Laptop").first() is not None 
+        assert Product.query.count() == 1
+        assert Category.query.count() == 1 
