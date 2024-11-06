@@ -1,0 +1,71 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<zentrade version="ZENTRADE XML 1.0" datetime="2024-11-06 11:14:33">
+<script/>
+<script/>
+<product code="1088">
+<dome_category dome_catecode="004">
+<![CDATA[ 생활용품 ]]>
+</dome_category>
+<scategory emp_catecode="55040900" esellers_catecode="283802000" classcode="35"/>
+<prdtname>
+<![CDATA[ [API연동테스트]미니 사각 소화기 표지판 ]]>
+</prdtname>
+<baseinfo madein="상세정보참조" productcom="상세정보참조" brand="" model=""/>
+<price buyprice="1580" consumerprice="2800" taxmode="Y"/>
+<listimg url1="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_listimg_01.jpg" url2="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_listimg_02.jpg" url3="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_listimg_03.jpg" url4="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_listimg_04.jpg" url5="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_listimg_05.jpg"/>
+<option opt1nm="제품선택" opt2nm="" optcnt="3">
+<![CDATA[ 아크릴 100x100^|^1580^|^2800^|^http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_opt_01.jpg^|^<p align="center"> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_01.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_03.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_d_01.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_04.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/zt/notice.jpg"> </p>↑=↑ 시스템사인 65x65^|^1690^|^3000^|^http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_opt_02.jpg^|^<p align="center"> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_01.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_03.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_d_02.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_04.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/zt/notice.jpg"> </p>↑=↑ 몰딩사인 100x100^|^2250^|^4000^|^http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_opt_03.jpg^|^<p align="center"> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_01.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_03.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_d_03.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_04.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/zt/notice.jpg"> </p> ]]>
+</option>
+<content>
+<![CDATA[ <p align="center"> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_01.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_02.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_03.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_d_01.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_d_02.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_d_03.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/1088/1088_minisquaresign_04.jpg"><br /> <img src="http://zentrade.hgodo.com/productimgs/zt/notice.jpg"> </p> ]]>
+</content>
+<keyword>
+<![CDATA[ 안내표지판,표찰,안내판,표지판,소화기표지판,아크릴표지판 ]]>
+</keyword>
+<status pcnt="1" runout="0" opendate="2016-10-27"/>
+</product>
+<product code="3231">
+<dome_category dome_catecode="005">
+<![CDATA[ 주방/욕실용품 ]]>
+</dome_category>
+<scategory emp_catecode="26060101" esellers_catecode="541704000" classcode="35"/>
+<prdtname>
+<![CDATA[ [API연동테스트]3칸 라운드 컬러 수저통 ]]>
+</prdtname>
+<baseinfo madein="상세정보참조" productcom="상세정보참조" brand="" model=""/>
+<price buyprice="2210" consumerprice="0" taxmode="Y"/>
+<listimg url1="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_listimg_01.jpg" url2="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_listimg_02.jpg" url3="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_listimg_03.jpg" url4="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_listimg_04.jpg" url5="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_listimg_05.jpg"/>
+<option opt1nm="색상" opt2nm="" optcnt="3">
+<![CDATA[ 블루^|^2210^|^0^|^http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_opt.jpg^|^<p align="center"> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_01.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_03.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_04.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_05.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_06.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_07.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_1_01.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_1_02.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_08.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/zt/notice.jpg"> </p>↑=↑ 핑크^|^2210^|^0^|^http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_opt2.jpg^|^<p align="center"> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_01.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_03.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_04.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_05.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_06.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_07.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_2_01.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_2_02.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_08.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/zt/notice.jpg"> </p>↑=↑ 그린^|^2210^|^0^|^http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_opt3.jpg^|^<p align="center"> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_01.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_03.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_04.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_05.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_06.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_07.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_3_01.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_3_02.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_08.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/zt/notice.jpg"> </p> ]]>
+</option>
+<content>
+<![CDATA[ <p align="center"> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_01.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_02.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_03.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_04.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_05.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_06.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_07.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_1_01.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_1_02.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_2_01.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_2_02.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_3_01.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_d_3_02.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/3231/3231_spoonholder_08.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/zt/notice.jpg"> </p> ]]>
+</content>
+<keyword>
+<![CDATA[ 수저통,3칸수저통,라운드수저통,수저케이스,스탠딩수저통 ]]>
+</keyword>
+<status pcnt="2" runout="0" opendate="2019-09-25"/>
+</product>
+<product code="2634">
+<dome_category dome_catecode="007">
+<![CDATA[ 디지털/자동차 ]]>
+</dome_category>
+<scategory emp_catecode="41111104" esellers_catecode="481512000" classcode="35"/>
+<prdtname>
+<![CDATA[ [API연동테스트]2P 차량용 틈새 수납함 ]]>
+</prdtname>
+<baseinfo madein="상세정보참조" productcom="상세정보참조" brand="" model=""/>
+<price buyprice="2110" consumerprice="0" taxmode="Y"/>
+<listimg url1="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_listimg_01.jpg" url2="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_listimg_02.jpg" url3="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_listimg_03.jpg" url4="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_listimg_04.jpg" url5="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_listimg_05.jpg"/>
+<option opt1nm="" opt2nm="" optcnt="1">
+<![CDATA[ ]]>
+</option>
+<content>
+<![CDATA[ <p align=center> <img src="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_01.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_02.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_03.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_04.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_05.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_06.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/2634/2634_seatpoket_07.jpg"><br> <img src="http://zentrade.hgodo.com/productimgs/zt/notice.jpg"></p> ]]>
+</content>
+<keyword>
+<![CDATA[ 사이드포켓,차량틈새수납,공간수납,차량용정리함,다용도수납함,시트틈새,소지품,다용도포켓,틈새포켓 ]]>
+</keyword>
+<status pcnt="3" runout="0" opendate="2018-07-23"/>
+</product>
+</zentrade>
